@@ -20,3 +20,12 @@ O problema a ser resolvido  é conhecido como Zebra Puzzle, e apresenta inúmera
 13. O fumante de Lucky Strike bebe suco de laranja.
 14. O Japonês fuma Parliaments.
 15. O Norueguês é vizinho da casa azul.
+
+## Início rápido (Linux):
+
+1. Abra um terminal (Ctrl+Alt+T) e navegue até o diretório onde você armazenou seu programa.
+2. Abra SWI-Prolog invocando `swipl`.
+3. No SWI-Prolog, digite `[zebraPuzzle]` para carregar o programa, ou seja, o nome do arquivo entre colchetes, mas sem o final.
+4. Para consultar o programa carregado, digite as metas e observe a saída.
+5. Alternativamente, você também pode carregar o programa passando seu nome como parâmetro para SWI-Prolog: `swipl -s zebraPuzzle.pl.`
+6. Para sair do SWI-Prolog, digite `halt`.
