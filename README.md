@@ -21,6 +21,9 @@ O problema a ser resolvido  é conhecido como Zebra Puzzle, e apresenta inúmera
 14. O Japonês fuma Parliaments.
 15. O Norueguês é vizinho da casa azul.
 
+### O problema é encontrar a resposta para as seguintes perguntas:
+* Quem bebe água?
+* Quem é o dono da zebra? 
 ## Início rápido (Linux):
 
 1. Abra um terminal (Ctrl+Alt+T) e navegue até o diretório onde você armazenou seu programa.
