@@ -32,3 +32,16 @@ O problema a ser resolvido  é conhecido como Zebra Puzzle, e apresenta inúmera
 4. Para consultar o programa carregado, digite as metas e observe a saída.
 5. Alternativamente, você também pode carregar o programa passando seu nome como parâmetro para SWI-Prolog: `swipl -s zebraPuzzle.pl.`
 6. Para sair do SWI-Prolog, digite `halt`.
+
+## Buscas para teste do zebra puzzle.
+* Saber de quem é a zebra.
+  
+    ?- `donoDaZebra(Dono).`
+
+* Saber quem bebe água.
+
+    ?  - `bebeAgua(Quem).`
+
+* Saber as informações completas dos fatos.
+
+    ?- `casas(Casas).`
