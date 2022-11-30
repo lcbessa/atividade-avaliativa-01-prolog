@@ -1,5 +1,5 @@
 %fatos
-informacoes(Nacionalidade, Animal, Cigarro, Bebida, Cor)
+informacoes(Nacionalidade, Animal, Cigarro, Bebida, Cor).
 
 %regras (Pergunta a responder)
 donoDaZebra(Dono) :- 
