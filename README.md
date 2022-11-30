@@ -42,6 +42,6 @@ O problema a ser resolvido  é conhecido como Zebra Puzzle, e apresenta inúmera
 
     ?  - `bebeAgua(Quem).`
 
-* Saber as informações completas dos fatos.
+* Saber as informações completas  referentes aos moradores e das casas: cor da casa, nacionalidade do morador, bebida, marca de cigarro e animal..
 
     ?- `casas(Casas).`
